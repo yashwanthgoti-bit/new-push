@@ -54,7 +54,7 @@
 			<version>${spring.version}</version>
 		</dependency>
 		<dependency>
-			<group>org.springframework</group>
+			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
