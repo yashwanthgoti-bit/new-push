@@ -6,7 +6,7 @@
 	<displayname>Counter Web Application</displayname>
 
 	<servlet>
-		<servletname>mvc-dispatcher</servletname>
+		<servletname>mvcdispatcher</servletname>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
