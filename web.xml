@@ -3,7 +3,7 @@
 	      http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 	version="2.5">
 
-	<displayname>Counter  is used Web Application</displayname>
+	<displayname>Counterused Web Application</displayname>
 
 	<servlet>
 		<servletname>mvcdispatcher</servletname>
