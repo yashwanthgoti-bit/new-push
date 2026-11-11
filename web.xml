@@ -3,7 +3,7 @@
 	      http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 	version="2.5">
 
-	<displayname>Counter use Web Application</displayname>
+	<displayname>CounteruseWebApplication</displayname>
 
 	<servlet>
 		<servletname>mvcdispatcher</servletname>
@@ -17,7 +17,7 @@
 	</servlet-mapping>
 
 	<context-param>
-		<param-name>context Config Location</param-name>
+		<param-name>contextConfigLocation</param-name>
 		<param-value>/WEB-INF/mvc-dispatcher-servlet.xml</param-value>
 	</context-param>
 
